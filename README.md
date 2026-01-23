@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=0C5449&background=FFCC33AE&width=480&lines=CS+Student+%40+Wayne+State+University;SWE+Intern+%40+BorgWarner;Graduating+in+2026!)](https://git.io/typing-svg)
 
 <br>
-<br>
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-vue/) 🔗
 
