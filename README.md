@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋 I'm Adam Vue
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Power+Apps+&+Power+BI+enthusiast;Open+Source+Contributor&width=600)](https://git.io/typing-svg)
 
 <!--
 **athevue/athevue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
