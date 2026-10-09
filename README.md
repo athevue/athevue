@@ -1,5 +1,5 @@
 # Hi!! 👋 I'm [Adam Vue] :D
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=0C5449&background=FFCC33AE&width=480&lines=CS+Student+%40+Wayne+State+University;SWE+Intern+%40+BorgWarner;Graduating+in+2026!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=0C5449&background=FFCC33AE&width=480&lines=CS+Student+%40+Wayne+State+University;SWE+Intern+%40+Ford;Graduating+in+2026!)](https://git.io/typing-svg)
 
 <br>
 
